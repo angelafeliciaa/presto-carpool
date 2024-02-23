@@ -1,1 +1,5 @@
-# presto-carpool
+## Presto Community Carpool
+Presto is inspired by Uber and Lyft, but it has relationship fostering features, that makes it into completely different category of apps. You can form the community group - events/hackathons formations, community center drop-in, office worker or student groups, etc.. People can get matched within their communities, fostering bond in a safe and friendly environment. You can set your routine weekly/daily routes in the app, and Presto smart algorithms would automatically match you a new driver on a regular basis. Or it you can let Presto do the heavy lifting of the scheduling and route formation of pick up for you and your friends.
+
+Presto allows drivers to enjoy the flexibility that comes with carpool apps, whilst making the monetary gains that come with regular cabbing apps. You can set the destination where you go and Presto algorithms will intelligently match the passengers that are as close to your route as possible while you are driving, everything realtime!
+
